@@ -39,7 +39,7 @@ The AWS managed policy `AmazonEC2ReadOnlyAccess` was selected and attached to th
 
 The IAM user `support-engineer-1` was created and assigned to the `SupportEngineers` group. This allows the user to inherit group permissions rather than receiving policies directly.
 
-![User assigned to SupportEngineers group](images/04-user-group-membership.png)
+![User assigned to SupportEngineers group](04-user-group-membership.png)
 
 ### 4. EC2 Read-Only Validation
 
