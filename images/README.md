@@ -19,6 +19,10 @@ All screenshots were reviewed to remove or obscure sensitive information, includ
 
 The screenshots below document the implementation and validation of least-privilege permissions. All images were sanitized before publication to remove credentials, account identifiers, session data, resource IDs, public IP addresses, and other sensitive details.
 
+## Security Overview
+
+(image/security overview 00.png).
+
 ### 1. IAM Group Creation
 
 The `SupportEngineers` IAM group was created to centrally manage permissions for users with the support-engineer role.
