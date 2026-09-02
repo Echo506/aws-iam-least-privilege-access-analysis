@@ -27,7 +27,7 @@ The screenshots below document the implementation and validation of least-privil
 
 The `SupportEngineers` IAM group was created to centrally manage permissions for users with the support-engineer role.
 
-![SupportEngineers IAM group created](images/01-group-creation.png)
+![SupportEngineers IAM group created](01-group-creation.png)
 
 ### 2. EC2 Read-Only Access
 
