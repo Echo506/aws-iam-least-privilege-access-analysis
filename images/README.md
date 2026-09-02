@@ -53,13 +53,13 @@ An attempt to terminate an EC2 instance was denied because no identity-based pol
 
 ![EC2 termination request](06-termination-request.png)
 
-![EC2 termination denied](images/07-termination-denied.png)
+![EC2 termination denied](07-termination-denied.png)
 
 ### 6. Default Deny Behavior
 
 The restricted dashboard panels and access-denied notifications show that permissions not explicitly granted remain unavailable. This demonstrates AWS's default deny model.
 
-![Default deny validation](images/08-default-deny.png)
+![Default deny validation](08-default-deny.png)
 
 ### 7. Final Lab Validation
 
