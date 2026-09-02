@@ -65,4 +65,4 @@ The restricted dashboard panels and access-denied notifications show that permis
 
 The AWS SimuLearn validation result confirmed successful completion of the activity, including the required read-only access configuration for the `SupportEngineers` group.
 
-![AWS SimuLearn assignment completed](images/10-lab-validation-success.png)
+![AWS SimuLearn assignment completed](10-lab-validation-success.png)
