@@ -45,7 +45,7 @@ The IAM user `support-engineer-1` was created and assigned to the `SupportEngine
 
 The support-engineer user could view EC2 instance information, confirming that the read-only policy provided the required operational visibility.
 
-![EC2 read-only access](images/05-ec2-read-access.png)
+![EC2 read-only access](05-ec2-read-access.png)
 
 ### 5. Denied EC2 Termination
 
