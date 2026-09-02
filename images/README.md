@@ -21,7 +21,7 @@ The screenshots below document the implementation and validation of least-privil
 
 ## Security Overview
 
-![Security Overview](images/00-security-overview.png)
+![Security Overview](00-security-overview.png)
 
 ### 1. IAM Group Creation
 
