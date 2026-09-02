@@ -33,7 +33,7 @@ The `SupportEngineers` IAM group was created to centrally manage permissions for
 
 The AWS managed policy `AmazonEC2ReadOnlyAccess` was selected and attached to the `SupportEngineers` group.
 
-![AmazonEC2ReadOnlyAccess selected](images/02-ec2-readonly-policy.png)
+![AmazonEC2ReadOnlyAccess selected](02-ec2-readonly-policy.png)
 
 ### 3. User and Group Membership
 
