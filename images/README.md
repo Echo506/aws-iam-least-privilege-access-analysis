@@ -51,7 +51,7 @@ The support-engineer user could view EC2 instance information, confirming that t
 
 An attempt to terminate an EC2 instance was denied because no identity-based policy allowed the `ec2:TerminateInstances` action. This confirms that least-privilege restrictions were correctly enforced.
 
-![EC2 termination request](images/06-termination-request.png)
+![EC2 termination request](06-termination-request.png)
 
 ![EC2 termination denied](images/07-termination-denied.png)
 
